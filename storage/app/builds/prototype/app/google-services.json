@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "663220505762",
+    "firebase_url": "https://geomakeit.firebaseio.com",
+    "project_id": "geomakeit",
+    "storage_bucket": "geomakeit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663220505762:android:e855ef7ad9776efef59bfb",
+        "android_client_info": {
+          "package_name": "com.geomakeit.api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663220505762-ua98vidi4dlhoceelkq7k6q3jc4m3i7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-U08Heo4UywbIjRDo6llYfieWonT31ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663220505762-ua98vidi4dlhoceelkq7k6q3jc4m3i7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663220505762:android:705934ed083ecfbbf59bfb",
+        "android_client_info": {
+          "package_name": "com.geomakeit.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663220505762-ua98vidi4dlhoceelkq7k6q3jc4m3i7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-U08Heo4UywbIjRDo6llYfieWonT31ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663220505762-ua98vidi4dlhoceelkq7k6q3jc4m3i7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

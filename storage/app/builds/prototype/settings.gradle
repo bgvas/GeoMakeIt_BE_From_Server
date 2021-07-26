@@ -1,0 +1,6 @@
+include ':GeoFighting'
+include ':GeoQuiz'
+include ':GeoMakeIt-API'
+rootProject.name='GeoMakeIt-DEV-Project'
+include ':app'
+include ':docs'

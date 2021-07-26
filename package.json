@@ -1,0 +1,35 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --disable-host-check --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "axios": "^0.21.1",
+        "bootstrap": "^4.6.0",
+        "cross-env": "^7.0.3",
+        "foundation-sites": "^6.6.3",
+        "jquery": "^3.5.1",
+        "laravel-mix": "^5.0.9",
+        "lodash": "^4.17.20",
+        "motion-ui": "^2.0.3",
+        "popper.js": "^1.12",
+        "resolve-url-loader": "^2.3.1",
+        "sass": "^1.32.6",
+        "sass-loader": "^8.0.0",
+        "scrollreveal": "^4.0.7",
+        "vue": "^2.6.12",
+        "vue-template-compiler": "^2.6.12",
+        "what-input": "^5.2.10"
+    },
+    "dependencies": {
+        "jsoneditor": "^9.1.9",
+        "laravel-echo": "^1.10.0",
+        "pusher-js": "^6.0.3"
+    }
+}

@@ -1,0 +1,13 @@
+site:
+  about:
+    siteName: GeoMakeIt API
+    siteDescription: An online tool for collecting & operating geo-games using abstract programming structures.
+Editorial:
+  social:
+    github: 'GeoMakeIt/GeoMakeIt-API'
+  metaComponents:
+    - type: 'orchidSearch'
+  menu:
+#    - type: 'separator'
+#      title: 'Wiki'
+    - type: 'wiki'

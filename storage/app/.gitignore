@@ -1,0 +1,4 @@
+plugins/*
+release/*
+builds/*
+!builds/prototype
